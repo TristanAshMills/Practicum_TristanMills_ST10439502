@@ -5,5 +5,27 @@
     <string name="MainMenu">Main Menu</string>
     <string name="Student">Tristan Mills ST10439502</string>
     <string name="Exit">Exit</string>
+    <string name="MostlySunny">Mostly Sunny</string>
+    <string name="UnderSunText">Mon june 10 | 09:00AM</string>
+    <string name="TempNumber">16°</string>
+    <string name="MinAndLow">12° Lo | 25° Hi</string>
+    <string name="Rain">2%</string>
+    <string name="wind">15km/h</string>
+    <string name="Humidtiy">10%</string>
+    <string name="weekly">Weekly Weather</string>
+    <string name="Back">Previous Page</string>
+    <string name="Tommorow">Tommorow</string>
+    <string name="twoFive">25°</string>
+    <string name="Raining">Raining 5° Lo | 14° Hi</string>
+    <string name="Storm">Storm 2° Lo | 9° Hi</string>
+    <string name="partlySunny">Partly Sunny 10° Lo | 32° Hi</string>
+    <string name="Cold">cloudy 5° Lo | 15° Hi</string>
+    <string name="Wed">Wed</string>
+    <string name="Thu">Thu</string>
+    <string name="Fri">Fri</string>
+    <string name="Sat">Sat</string>
+    <string name="Sun">Sun</string>
+
+
 
 </resources>
