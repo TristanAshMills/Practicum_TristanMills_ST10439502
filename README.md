@@ -6,3 +6,7 @@ Also, the user experience is enhanced by an easy-to-use interface which simplifi
 
 https://github.com/TristanAshMills/Practicum_TristanMills_ST10439502
 
+![Capture](https://github.com/TristanAshMills/Practicum_TristanMills_ST10439502/assets/164140736/8eef8f02-eb30-4931-a9ad-2032a2156b04)
+![Screenshot 2024-06-10 120017](https://github.com/TristanAshMills/Practicum_TristanMills_ST10439502/assets/164140736/1b98d9cb-a0fd-4dd2-bbe3-fa7cb1fde91e)
+![Screenshot 2024-06-10 120154](https://github.com/TristanAshMills/Practicum_TristanMills_ST10439502/assets/164140736/2627c5e1-73f4-4495-a212-cf47aa36fcbd)
+![Screenshot 2024-06-10 120228](https://github.com/TristanAshMills/Practicum_TristanMills_ST10439502/assets/164140736/62f7d8c3-147c-4cb4-aa02-208d82b153ed)
