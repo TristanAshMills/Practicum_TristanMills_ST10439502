@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practicum_TristanMills</string>
+    <string name="MainText">The Weather App</string>
+    <string name="weather_Button">Show Weather</string>
+    <string name="MainMenu">Main Menu</string>
+    <string name="Student">Tristan Mills ST10439502</string>
+    <string name="Exit">Exit</string>
+
+</resources>
