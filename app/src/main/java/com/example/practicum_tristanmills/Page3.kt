@@ -22,6 +22,7 @@ class Page3 : AppCompatActivity() {
             val intent = Intent (this, MainActivity ::class.java)
             startActivity(intent)
         }
+        // this is athe Arrays
         val weather = arrayOf<String>(
             "Monday: 5° and 14°, Rainy.",
             "Tuesday: 15° and 29°, Sunny.",
@@ -31,5 +32,4 @@ class Page3 : AppCompatActivity() {
             "Saturday: 4° and 14°, raining.",
             "Sunday: 5° and 15°, Cloudy.")
     }
-
 }
