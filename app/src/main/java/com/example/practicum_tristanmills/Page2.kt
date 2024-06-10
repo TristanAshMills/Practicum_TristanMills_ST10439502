@@ -17,10 +17,12 @@ class Page2 : AppCompatActivity() {
 
             startActivity(intent)
         }
-        val backButton = findViewById<Button>(R.id.Back)
+        val GobackButton = findViewById<Button>(R.id.Back)
 
-        backButton.setOnClickListener {
-            finish() // This will close the current activity and return to the previous one
+        GobackButton.setOnClickListener {
+            val intent = Intent (this, MainActivity::class.java)
+            startActivity(intent)
         }
+
     }
 }
