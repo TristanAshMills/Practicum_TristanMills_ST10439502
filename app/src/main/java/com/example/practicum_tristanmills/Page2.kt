@@ -11,12 +11,13 @@ class Page2 : AppCompatActivity() {
         setContentView(R.layout.activity_page2)
         //Button to get to the next page
         val page3Button = findViewById<Button>(R.id.weeklyWeather)
-
+        //this button is used to go to the next page
         page3Button.setOnClickListener {
             val intent = Intent (this, Page3::class.java)
 
             startActivity(intent)
         }
+        // this button is used to go back to the main menu
         val GobackButton = findViewById<Button>(R.id.Back)
 
         GobackButton.setOnClickListener {
